@@ -4,7 +4,7 @@ This repository hosts the source code for a LinkedIn clone built with Next.js, T
 
 ## Demo
 
-- Live Preview: [https://linkedin-clone-by-shan.vercel.app/](https://linkedin-clone-by-shan.vercel.app/)
+- Live Preview: 
 
 ## Features
 
@@ -15,23 +15,12 @@ This repository hosts the source code for a LinkedIn clone built with Next.js, T
 - Responsive Design
 - Cloudinary Integration for Media Management
 
-## Screenshots
-
-![Home](https://i.ibb.co/S6T3zkf/linkedin-clone-1.png)
-- Home Page
-
-![Post](https://i.ibb.co/9n5WZVC/linkedin-clone-2.png)
-- Post Popup
-
-![Profile](https://i.ibb.co/rMFpZkV/linkedin-clone-3.png)
-- Profile Section
-
 ## Run Locally
 
 Clone the project
 
 ```bash
-    https://github.com/Mshandev/Linkedin-Clone.git
+https://github.com/Kajal-Tiwari-22/LinkedIn.git
 ```
 Go to the project directory
 
@@ -73,12 +62,3 @@ Start the server
 ## Deployment
 
 The application is deployed on Vercel.
-
-## Contributing
-
-Contributions are always welcome!
-Just raise an issue, and we will discuss it.
-
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
